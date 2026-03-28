@@ -20,5 +20,5 @@ For more, check out the rectangle and ellipse pages on processing.org.
 
 // Given code:
 ellipse(250, 200, 300, 300);
-rect(245, 40, 10, 240);
-ellipse(190, 200, 70, 70);
+rect(385, 20, 10, 240);
+ellipse(250, 200, 70, 70);
